@@ -67,7 +67,7 @@ python Converter.py
 Установите библиотеку [pyinstaller](https://pypi.org/project/pyinstaller/).
 
 ```sh
-pip install pyinsteller
+pip install pyinstaller
 ```
 
 ### Создание exe-файла

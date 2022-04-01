@@ -6,7 +6,7 @@
 юаней. Для получения курсов валют используется 
 [API-Центробанка](https://www.cbr.ru/development/SXML/).
 
-![demo](Converter 2.gif)
+![demo](Converter.gif)
 
 ## Установка
 
@@ -55,8 +55,6 @@ pip install -r requirements.txt
 ```
 
 ### Запуск
-
-Выход из программы `Esc`.
 
 ```sh
 python Converter.py

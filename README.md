@@ -60,7 +60,7 @@ pip install -r requirements.txt
 python Converter.py
 ```
 
-## Запуск на Windows 10/11 pro
+## Запуск на Windows 10/11 pro как exe-файл
 
 ### Подготовка
 
